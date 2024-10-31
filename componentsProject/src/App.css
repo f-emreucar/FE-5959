@@ -1,0 +1,122 @@
+
+.nav_Bar{
+  height: 80px;
+  background-color: rgb(46, 44, 44);
+}
+
+.nav_bar_brand{
+  color: white !important;
+}
+
+.nav_links{
+  position:  relative !important;
+  color: white !important;
+  font-size: 18px !important;
+  font-weight: 500 !important;
+  transition: 0.2s ease-in-out !important;
+}
+
+.nav_links:hover{
+  color: rgb(111, 109, 109) !important;
+}
+
+/* -------------- */
+
+.container_div{
+  border: 1px solid black;
+  border-radius: 15px;
+  text-align: center;
+  background-color: white !important;
+  color: rgb(46, 44, 44);
+  border: 2px solid rgb(46, 44, 44);
+}
+
+
+.btn_custom_color{
+  background-color: rgb(46, 44, 44) !important;
+  color: white !important;
+  border-radius: 22px !important;
+  padding: 10px !important;
+  transition: 0.2s ease-in-out !important;
+}
+
+.btn_custom_color:hover{
+  background-color: rgb(111, 109, 109) !important;
+}
+
+/* ----------------- */
+
+.card{
+  background-color: white !important;
+  color: rgb(46, 44, 44) !important;
+  width: 350px;
+  height: 300px;
+  margin-bottom: 3rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: 0.3s ease-in-out;
+  border-radius: 15px !important;
+  border: 2px solid rgb(46, 44, 44) !important;
+}
+
+.card:hover{
+  box-shadow: 16px 18px 12px 0px rgba(0,0,0,0.75);
+  transform: scale(1.02);
+}
+
+.icon-box{
+  background-color: white !important;
+  width: 50px;
+  height: 50px;
+  transform: translateY(-25px);
+  color: rgb(46, 44, 44);
+  border: 2px solid rgb(46, 44, 44) !important;
+  border-radius: 15px;
+  font-size: 32px;
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: 0.3s ease-in-out;
+}
+
+.card-body{
+  padding: 20px !important;
+  padding-bottom: 50px !important;
+  text-align: center;
+}
+
+
+/* ------------ */
+
+.footerBox{
+  background-color: rgb(46, 44, 44);
+  color: white;
+  height: 120px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.footerİcons{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 32px;
+  font-weight: bold;
+  gap: 1rem;
+}
+
+.footerİconsHover{
+  transition: 0.3s ease-in-out;
+}
+
+.footerİconsHover:hover{
+  transform: translateY(-5px);
+}
+
+
