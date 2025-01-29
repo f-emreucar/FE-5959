@@ -1,1 +1,1 @@
-İlk React Projem.Basit Bir Sayfa Tasarımı
+İlk React Projem.Basit Bir Sayfa Tasarımı..
